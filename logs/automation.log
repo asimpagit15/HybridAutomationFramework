@@ -1,0 +1,63 @@
+2025-06-09 16:39:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 16:40:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 16:46:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 16:46:12 INFO  TC_002_LoginTest:15 - **** Starting verify_login_with_valid_credentials ****
+2025-06-09 16:46:15 ERROR TC_002_LoginTest:34 - Test failed: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:14209
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4HGCE0I', ip: '192.168.56.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: RemoteWebDriver
+2025-06-09 16:47:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 16:47:06 INFO  TC_002_LoginTest:15 - **** Starting verify_login_with_valid_credentials ****
+2025-06-09 16:47:10 INFO  TC_002_LoginTest:31 - Clicked on logout link
+2025-06-09 16:47:10 INFO  TC_002_LoginTest:37 - **** Finished verify_login_with_valid_credentials ****
+2025-06-09 16:47:10 INFO  TC_002_LoginTest:42 - **** Starting verify_login_with_invalid_password ****
+2025-06-09 16:47:13 INFO  TC_002_LoginTest:62 - **** Finished verify_login_with_invalid_password ****
+2025-06-09 16:47:13 INFO  TC_002_LoginTest:67 - **** Starting verify_login_with_invalid_email ****
+2025-06-09 17:08:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 17:08:23 INFO  TC_002_LoginTest:15 - **** Starting verify_login_with_valid_credentials ****
+2025-06-09 17:08:27 INFO  TC_002_LoginTest:31 - Clicked on logout link
+2025-06-09 17:08:27 INFO  TC_002_LoginTest:37 - **** Finished verify_login_with_valid_credentials ****
+2025-06-09 17:08:27 INFO  TC_002_LoginTest:42 - **** Starting verify_login_with_invalid_password ****
+2025-06-09 17:08:29 INFO  TC_002_LoginTest:62 - **** Finished verify_login_with_invalid_password ****
+2025-06-09 17:08:29 INFO  TC_002_LoginTest:67 - **** Starting verify_login_with_invalid_email ****
+2025-06-09 17:08:31 INFO  TC_002_LoginTest:87 - **** Finished verify_login_with_invalid_email ****
+2025-06-09 17:08:31 INFO  TC_002_LoginTest:92 - **** Starting verify_login_with_invalid_email_and_password ****
+2025-06-09 17:08:32 INFO  TC_002_LoginTest:112 - **** Finished verify_login_with_invalid_email_and_password ****
+2025-06-09 17:08:32 INFO  TC_002_LoginTest:117 - **** Starting verify_login_with_empty_credentials ****
+2025-06-09 17:08:34 INFO  TC_002_LoginTest:137 - **** Finished verify_login_with_empty_credentials ****
+2025-06-09 17:08:34 INFO  TC_002_LoginTest:142 - **** Starting verify_login_with_blank_email ****
+2025-06-09 17:08:36 INFO  TC_002_LoginTest:157 - **** Finished verify_login_with_blank_email ****
+2025-06-09 17:08:36 INFO  TC_002_LoginTest:162 - **** Starting verify_login_with_blank_password ****
+2025-06-09 17:08:37 INFO  TC_002_LoginTest:177 - **** Finished verify_login_with_blank_password ****
+2025-06-09 17:08:38 INFO  TC_002_LoginTest:182 - **** Starting verify_login_page_forgot_password_link_present ****
+2025-06-09 17:08:38 INFO  TC_002_LoginTest:194 - **** Finished verify_login_page_forgot_password_link_present ****
+2025-06-09 17:11:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\hybrid_automationframework\master.xml
+
+2025-06-09 17:11:59 INFO  TC_002_LoginTest:15 - **** Starting verify_login_with_valid_credentials ****
+2025-06-09 17:12:03 INFO  TC_002_LoginTest:31 - Clicked on logout link
+2025-06-09 17:12:03 INFO  TC_002_LoginTest:37 - **** Finished verify_login_with_valid_credentials ****
+2025-06-09 17:12:03 INFO  TC_002_LoginTest:42 - **** Starting verify_login_with_invalid_password ****
+2025-06-09 17:12:05 INFO  TC_002_LoginTest:62 - **** Finished verify_login_with_invalid_password ****
+2025-06-09 17:12:05 INFO  TC_002_LoginTest:67 - **** Starting verify_login_with_invalid_email ****
+2025-06-09 17:12:08 INFO  TC_002_LoginTest:87 - **** Finished verify_login_with_invalid_email ****
+2025-06-09 17:12:08 INFO  TC_002_LoginTest:92 - **** Starting verify_login_with_invalid_email_and_password ****
+2025-06-09 17:12:10 INFO  TC_002_LoginTest:112 - **** Finished verify_login_with_invalid_email_and_password ****
+2025-06-09 17:12:10 INFO  TC_002_LoginTest:117 - **** Starting verify_login_with_empty_credentials ****
+2025-06-09 17:12:13 INFO  TC_002_LoginTest:137 - **** Finished verify_login_with_empty_credentials ****
+2025-06-09 17:12:13 INFO  TC_002_LoginTest:142 - **** Starting verify_login_with_blank_email ****
+2025-06-09 17:12:15 INFO  TC_002_LoginTest:157 - **** Finished verify_login_with_blank_email ****
+2025-06-09 17:12:15 INFO  TC_002_LoginTest:162 - **** Starting verify_login_with_blank_password ****
+2025-06-09 17:12:17 INFO  TC_002_LoginTest:177 - **** Finished verify_login_with_blank_password ****
+2025-06-09 17:12:17 INFO  TC_002_LoginTest:182 - **** Starting verify_login_page_forgot_password_link_present ****
+2025-06-09 17:12:18 INFO  TC_002_LoginTest:194 - **** Finished verify_login_page_forgot_password_link_present ****

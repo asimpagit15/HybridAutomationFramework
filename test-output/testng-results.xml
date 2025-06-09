@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-09T17:11:54 IST" name="Suite" finished-at="2025-06-09T17:12:19 IST" duration-ms="25090">
+    <groups>
+    </groups>
+    <test started-at="2025-06-09T17:11:54 IST" name="Test" finished-at="2025-06-09T17:12:19 IST" duration-ms="25090">
+      <class name="testCases.TC_002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:11:54 IST" name="setup" finished-at="2025-06-09T17:11:59 IST" duration-ms="4703" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login_with_valid_credentials()[pri:1, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:11:59 IST" name="verify_login_with_valid_credentials" finished-at="2025-06-09T17:12:03 IST" duration-ms="3935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_valid_credentials -->
+        <test-method signature="verify_login_with_invalid_password()[pri:2, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:03 IST" name="verify_login_with_invalid_password" finished-at="2025-06-09T17:12:05 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_password -->
+        <test-method signature="verify_login_with_invalid_email()[pri:3, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:05 IST" name="verify_login_with_invalid_email" finished-at="2025-06-09T17:12:08 IST" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_email -->
+        <test-method signature="verify_login_with_invalid_email_and_password()[pri:4, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:08 IST" name="verify_login_with_invalid_email_and_password" finished-at="2025-06-09T17:12:10 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_email_and_password -->
+        <test-method signature="verify_login_with_empty_credentials()[pri:5, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:10 IST" name="verify_login_with_empty_credentials" finished-at="2025-06-09T17:12:13 IST" duration-ms="2688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_empty_credentials -->
+        <test-method signature="verify_login_with_blank_email()[pri:6, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:13 IST" name="verify_login_with_blank_email" finished-at="2025-06-09T17:12:15 IST" duration-ms="2172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_blank_email -->
+        <test-method signature="verify_login_with_blank_password()[pri:7, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:15 IST" name="verify_login_with_blank_password" finished-at="2025-06-09T17:12:17 IST" duration-ms="2363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_blank_password -->
+        <test-method signature="verify_login_page_forgot_password_link_present()[pri:8, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:17 IST" name="verify_login_page_forgot_password_link_present" finished-at="2025-06-09T17:12:18 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_page_forgot_password_link_present -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@165b8a71]" started-at="2025-06-09T17:12:18 IST" name="tearDown" finished-at="2025-06-09T17:12:19 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
